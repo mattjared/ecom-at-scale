@@ -88,7 +88,7 @@ export default function Component() {
         </div>
         <div className="space-y-8 pr-32">
           <div>
-            <h2 className="text-2xl font-bold">Start your Lingo journey</h2>
+            <h2 className="text-2xl font-bold">Let's start your Lingo journey</h2>
             <p className="mt-2 text-gray-600">
               The Lingo biosensor and app work together to help you fine-tune your habits, improve your metabolic
               health, and live your healthiest life.
